@@ -1,2 +1,2 @@
-# DD_simulations_and_animations_for_QEC_course
+# DD simulations and animations for QEC course
 
